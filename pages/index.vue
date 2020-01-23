@@ -7,7 +7,7 @@
             クレジット・デビットカード番号
           </label>
           <div id="card-element">
-            <!-- Stripe Element がここに入ります。 -->
+            <!-- Stripe Element がここaaaに入ります。 -->
           </div>
 
           <!-- Element のエラーを入れます。 -->
